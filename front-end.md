@@ -28,6 +28,9 @@ Hazle fork a este repositorio y escribe tus respuestas debajo de cada pregunta. 
 
 #### ¿Qué es flexbox?
 
+- prefieres usar un framework de css para implementaciones o trabajas directamente con css puro si, usaras un framework, cual seria el que utilizarias?
+- ¿Qué es un preprocesador CSS? ¿Cuándo recomienda utilizar un preprocesador en un proyecto? y cual recomendarias
+
 
 ## Bootstrap
 
@@ -109,3 +112,14 @@ Hazle fork a este repositorio y escribe tus respuestas debajo de cada pregunta. 
 #### ¿Qué es Handlebars y para qué se utiliza?
 
 #### ¿Para qué se utiliza `"use strict";`?
+
+## React Questions
+
+- ¿que experiencia has tenido trabajando con react y como te fue?
+- ¿escogerias react sobre cualquier otra tecnologia front y por que?
+- ¿supongo que tu experiencia en react ha sido con hooks o sabes trabajar con componentes de clases?
+- Nombrar los metodos del ciclo de vida de un componente en react.
+- ¿cuándo usarias un componente de clase sobre un componente de función?
+- ¿ has trabajado con redux? 
+- puedes decirme como entiendes redux, cual es su funcion principal?
+- ¿ podrias decirme que componentes esta relacionados directamente con redux?
