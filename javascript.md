@@ -1,5 +1,5 @@
 <div align='center'>
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
+  <img height="60" src="./images/javascript.png">
   <h1>Preguntas de entrevista para Javascript</h1>
 </div>
 

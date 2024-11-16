@@ -1,5 +1,5 @@
 <div align='center'>
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png">
+  <img height="60" src="./images/React-icon.png">
   <h1>Preguntas de entrevista para React</h1>
 
   <i>De cero a experto. Con respuestas detalladas en Español 🇪🇸</i>
