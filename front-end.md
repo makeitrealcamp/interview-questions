@@ -1,8 +1,76 @@
-# Preguntas Front End
+# 🎯 Reto: ¡Demuestra tus habilidades como Frontend Developer! 🎨💻
 
-Esta lista de preguntas no es exhaustiva, es solo un ejemplo de preguntas que personalmente le haría a un candidato a desarrollador Front End.
+¡Bienvenido al desafío de preguntas Frontend! 🚀 Este repositorio contiene una lista de preguntas que te ayudarán a reflexionar sobre tus conocimientos y habilidades. 🧠✨  
 
-Hazle fork a este repositorio y escribe tus respuestas debajo de cada pregunta. A veces uno cree saber la respuesta, pero no es hasta que la intenta escribir que se da cuenta que no la sabe expresar.
+🔔 **¿El reto?** Haz un fork de este repositorio y responde cada pregunta directamente en el archivo Markdown. Es una excelente manera de aprender y evaluar qué tan bien puedes expresar conceptos clave. A veces creemos que sabemos algo, pero no es hasta que intentamos explicarlo que nos damos cuenta de lo contrario. 🤔💡
+
+---
+
+## ✨ ¿Qué debes hacer?  
+1. **Haz un fork** de este repositorio.  
+   <img src="./images/fork.png" alt="Fork" width="20">
+   _¡Haz clic en el botón de Fork en Github para empezar a personalizar tu copia del reto!_  
+
+2. **Responde las preguntas** en el archivo Markdown (`front-end.md`).  
+   ✍️ Escribe tus respuestas debajo de cada pregunta.  
+
+3. **Haz un pull request** (opcional):  
+   Si deseas compartir tus respuestas, ¡haz un pull request! Queremos ver tus ideas. 🚀
+
+---
+
+## 🏆 ¿Qué aprenderás?
+- Reafirmarás conceptos clave de **HTML**, **CSS**, **JavaScript**, **Git**, y más.  
+- Mejorarás tu capacidad para comunicar ideas técnicas.  
+- ¡Te divertirás mientras refuerzas tus conocimientos! 🌟  
+
+### 🌟 Bonus  
+¿Quieres destacar? Agrega enlaces, ejemplos de código, o imágenes para ilustrar tus respuestas. 🖼️🔗
+
+---
+
+> 💡 **Tip:** No te preocupes si no sabes todo. Este es un espacio para aprender y crecer. ¡Diviértete en el proceso! 🎉  
+
+---
+
+¡Estamos emocionados de ver cómo respondes este reto! 🥳  
+Sube tu nivel, presume tus conocimientos y conviértete en un **Frontend Rockstar**. 🤘✨
+
+¡Que comience el desafío! 🔥💻
+
+---
+
+## 🚀 Preguntas sobre React
+
+1. **¿Cuál ha sido tu experiencia trabajando con React?**  
+   - Comparte los proyectos en los que has trabajado, los desafíos que enfrentaste y cómo los resolviste. 🛠️  
+
+2. **¿Por qué escogerías React sobre otras tecnologías de frontend?**  
+   - ¿Qué ventajas encuentras en React frente a otras librerías o frameworks? ⚛️  
+
+3. **¿Qué enfoque tienes más experiencia utilizando en React: Hooks o componentes de clase?**  
+   - Explica si trabajas más con _Hooks_, componentes de clase o ambos. ¿Qué diferencias destacarías entre ellos? 🔄  
+
+4. **¿Puedes enumerar los métodos del ciclo de vida de un componente en React?**  
+   - Menciona los métodos principales y sus usos. Si puedes, incluye ejemplos de cuándo los has utilizado. 🕰️  
+
+5. **¿En qué casos usarías un componente de clase en lugar de un componente funcional?**  
+   - Justifica tu respuesta con escenarios específicos o ejemplos. 📚  
+
+6. **¿Tienes experiencia trabajando con Redux?**  
+   - Cuéntanos cómo lo has implementado en proyectos y tu opinión sobre esta herramienta. 🗃️  
+
+7. **¿Cómo entiendes Redux y cuál es su función principal?**  
+   - Explica cómo describe Redux el flujo de datos en una aplicación.  
+
+8. **¿Qué componentes de una aplicación están directamente relacionados con Redux?**  
+   - Identifica los elementos principales que interactúan con Redux, como el _store_, los _reducers_ o los _actions_.  
+
+
+
+✍️ **Tip:** Si puedes, incluye ejemplos de código o enlaces a proyectos en los que has trabajado. ¡Nos encantaría conocer más sobre tu experiencia! 🚀
+
+---
 
 ## HTML Y CSS
 
@@ -112,14 +180,3 @@ Hazle fork a este repositorio y escribe tus respuestas debajo de cada pregunta. 
 #### ¿Qué es Handlebars y para qué se utiliza?
 
 #### ¿Para qué se utiliza `"use strict";`?
-
-## React Questions
-
-- ¿que experiencia has tenido trabajando con react y como te fue?
-- ¿escogerias react sobre cualquier otra tecnologia front y por que?
-- ¿supongo que tu experiencia en react ha sido con hooks o sabes trabajar con componentes de clases?
-- Nombrar los metodos del ciclo de vida de un componente en react.
-- ¿cuándo usarias un componente de clase sobre un componente de función?
-- ¿ has trabajado con redux? 
-- puedes decirme como entiendes redux, cual es su funcion principal?
-- ¿ podrias decirme que componentes esta relacionados directamente con redux?
